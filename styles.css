@@ -1,0 +1,95 @@
+
+.index,
+.cakes,
+.cookies,
+.pie {
+    font-family: "Courier New", Courier, monospace;
+}
+
+.title,
+.description,
+.ingredients,
+.steps,
+.linklist,
+.backlink {
+    padding: 5px;
+    margin: 10px;
+}
+
+img {
+    margin-left: 10px;
+    vertical-align: bottom;
+}
+
+
+.linklist {
+    background-color: mistyrose;
+    width: fit-content;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.image {
+    width: 600px;
+    height: auto;
+}
+
+.indeximg {
+    width: 500px;
+    height: auto;
+}
+
+.index {
+    background-color:indianred;
+    color: rgb(46, 24, 24);
+}
+
+.imagecookie,
+.pieimg {
+    width: 400px;
+    height: auto;
+}
+
+.cakes {
+    background-color: pink;
+
+}
+
+.cookies {
+    background-color:slategray;
+}
+
+.pie {
+    background-color: darkcyan;
+}
+
+.title {
+    background-color:mistyrose;
+    width: fit-content;
+    font-size: 40px;
+    color:rgb(80, 3, 80);
+    font-weight: bold;
+}
+
+.description {
+    background-color: lavenderblush;
+    font-weight: bold;
+    width: fit-content;
+}
+
+.ingredients {
+    background-color:lavender;
+    width: fit-content;
+    font-style: italic;
+}
+
+.steps {
+    background-color: lightgrey;
+    width: fit-content;
+    font-size: 14px;
+}
+
+.backlink {
+    background-color:azure;
+    width: fit-content;
+}
